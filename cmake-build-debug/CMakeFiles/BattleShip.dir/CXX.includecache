@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/caric/CLionProjects/BattleShip/Battleship.cpp
+Battleship.h
+C:/Users/caric/CLionProjects/BattleShip/Battleship.h
+
+C:/Users/caric/CLionProjects/BattleShip/Battleship.h
+cstdlib
+-
+iostream
+-
+time.h
+-
+
